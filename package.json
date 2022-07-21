@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "inquirer": "^9.0.2",
+    "jest": "^28.1.3"
+  },
+  "name": "10challenge-team-profile-generator",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlainaRosendahl/10challenge-team-profile-generator.git"
+  },
+  "author": "Alaina Rosendahl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlainaRosendahl/10challenge-team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/AlainaRosendahl/10challenge-team-profile-generator#readme"
+}
